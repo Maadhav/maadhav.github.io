@@ -275,16 +275,16 @@
 
 })(jQuery);
 
-function sendmail()
-{
-	alert("Send Message Button under development! Please mail me at maadhav2001@gmail.com")
-	// var name = document.getElementById("name").value;
-	// var email = document.getElementById("email");
-	// var subject = document.getElementById("subject");
-	// var message = document.getElementById("message");
+// function sendmail()
+// {
+// 	alert("Send Message Button under development! Please mail me at maadhav2001@gmail.com")
+// 	// var name = document.getElementById("name").value;
+// 	// var email = document.getElementById("email");
+// 	// var subject = document.getElementById("subject");
+// 	// var message = document.getElementById("message");
 	
-    // window.location.href = "mailto:maadhav2001@gmail.com?subject="+subject.data +";body="+message.data+"%0D%0AName:"+name.data+"%0D%0AEmail:" + email.data;
-}	
+//     // window.location.href = "mailto:maadhav2001@gmail.com?subject="+subject.data +";body="+message.data+"%0D%0AName:"+name.data+"%0D%0AEmail:" + email.data;
+// }	
 function cv()
 {
 	alert("CV under development!")
