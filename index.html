@@ -652,6 +652,15 @@
   <script src="js/scrollax.min.js"></script>
   
   <script src="js/main.js"></script>
-    
+    <script>
+function sendmail() {
+var name = document.getElementById("name").value;
+	var email = document.getElementById("email").value;
+	var subject = document.getElementById("subject").value;
+	var message = document.getElementById("message").value;
+	
+    window.location.href = "mailto:maadhav2001@gmail.com?subject="+subject+";body="+message+"%0D%0AName:"+name+"%0D%0AEmail:" + email;
+}
+</script>
   </body>
 </html>
